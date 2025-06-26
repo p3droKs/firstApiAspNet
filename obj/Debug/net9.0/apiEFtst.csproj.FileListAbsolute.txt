@@ -19,6 +19,9 @@ C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\bin\
 C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
 C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
 C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\obj\Debug\net9.0\apiEFtst.csproj.AssemblyReference.cache
 C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\obj\Debug\net9.0\apiEFtst.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\obj\Debug\net9.0\apiEFtst.AssemblyInfoInputs.cache
@@ -26,6 +29,7 @@ C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\obj\
 C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\obj\Debug\net9.0\apiEFtst.csproj.CoreCompileInputs.cache
 C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\obj\Debug\net9.0\apiEFtst.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\obj\Debug\net9.0\apiEFtst.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\obj\Debug\net9.0\apiEFtst.sourcelink.json
 C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\obj\Debug\net9.0\scopedcss\bundle\apiEFtst.styles.css
 C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\obj\Debug\net9.0\staticwebassets.build.json
 C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\obj\Debug\net9.0\staticwebassets.development.json
@@ -42,6 +46,3 @@ C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\obj\
 C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\obj\Debug\net9.0\apiEFtst.pdb
 C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\obj\Debug\net9.0\apiEFtst.genruntimeconfig.cache
 C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\obj\Debug\net9.0\ref\apiEFtst.dll
-C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
-C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-C:\Users\João pedro\OneDrive\Área de Trabalho\Desktop\Dev\DotNet\apiEFtst\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll

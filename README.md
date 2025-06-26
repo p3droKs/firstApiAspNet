@@ -31,7 +31,7 @@ This is a simple RESTful API developed using **ASP.NET Core** and **Entity Frame
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/p3droKs/firstApiAspNet.git
    cd your-repo
    ```
 
@@ -70,6 +70,12 @@ This is a simple RESTful API developed using **ASP.NET Core** and **Entity Frame
 - `GET /v1/products/categories/{categoryId}` — Get products by category ID
 - `POST /v1/products` — Create a new product
 
+### Client
+
+- `GET /v1/clients` — Get all clients
+- `GET /v1/clients/{id}` — Get client by ID with details
+- `POST /v1/clients` — Create a new client
+
 ---
 
 ## Models
@@ -90,6 +96,18 @@ This is a simple RESTful API developed using **ASP.NET Core** and **Entity Frame
 | Price       | decimal | Required                           |
 | CategoryId  | int     | Foreign key referencing Category   |
 | Category    | Category| Navigation property (Category info)|
+
+### Client
+
+| Property | Type    | Description                       |
+| -------- | ------- | -------------------------------- |
+| Id       | int     | Primary key (auto-generated)      |
+| Email    | string  | Required, minimum 1 character |
+| Password    | string  | Required, between 3 and 60 characters |
+| Username    | string  | Required, minimum 4 characters |
+| ProductId    | int  |  Foreign key referencing Product |
+| Product    | Product| Navigation property (Product info)|
+
 
 ---
 
