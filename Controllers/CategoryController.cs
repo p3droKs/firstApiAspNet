@@ -45,5 +45,4 @@ namespace apiEFtst.Controllers
             return CreatedAtAction(nameof(GetById), new { id = model.Id }, model);
         }
     }
-
-}    
+}
